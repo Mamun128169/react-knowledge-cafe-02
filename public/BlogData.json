@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/kcgdKVX/2.png",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/JcLX834/boy2.jpg",
+      "title": "Latest Gadgets Unboxed",
+      "reading_time": 3,
+      "hashtags": ["Tech", "Gadgets", "Unboxing"],
+      "posted_date": "2023-10-09"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/ts2Jqd9/1.jpg",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/t4R4n2r/boy1.png",
+      "title": "Tech Tips and Tricks",
+      "reading_time": 5,
+      "hashtags": ["Tech", "Tips", "Tricks"],
+      "posted_date": "2023-10-08"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/NL7w1XW/4.jpg",
+      "author": "Mark Johnson",
+      "author_img": "https://i.ibb.co/hx6qtx2/girl1.jpg",
+      "title": "Future Tech Predictions",
+      "reading_time": 7,
+      "hashtags": ["Tech", "Future", "Predictions"],
+      "posted_date": "2023-10-07"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/jzXKbJb/3.png",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/ZYSWQHQ/girl2.jpg",
+      "title": "Coding Challenges and Solutions",
+      "reading_time": 4,
+      "hashtags": ["Tech", "Coding", "Challenges"],
+      "posted_date": "2023-10-06"
+    }
+  ]
+  
